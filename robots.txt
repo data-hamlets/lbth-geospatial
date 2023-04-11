@@ -1,0 +1,1 @@
+Sitemap: https://data-hamlets.github.io/lbth-geospatial/sitemap.xml
