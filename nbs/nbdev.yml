@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lbth-geospatial"
+  site-url: "https://data-hamlets.github.io/lbth-geospatial"
+  description: "geospatial boundaries utilities for creating reusable spatial analyses"
+  repo-branch: main
+  repo-url: "https://github.com/data-hamlets/lbth-geospatial"
