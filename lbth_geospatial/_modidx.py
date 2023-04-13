@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://data-hamlets.github.io',
                 'git_url': 'https://github.com/data-hamlets/lbth-geospatial',
                 'lib_path': 'lbth_geospatial'},
-  'syms': {'lbth_geospatial.core': {'lbth_geospatial.core.foo': ('core.html#foo', 'lbth_geospatial/core.py')}}}
+  'syms': {'lbth_geospatial.core': {'lbth_geospatial.core.plot_wards': ('core.html#plot_wards', 'lbth_geospatial/core.py')}}}

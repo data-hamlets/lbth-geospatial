@@ -9,12 +9,12 @@ documentation.
 ## Install
 
 ``` sh
-pip install lbth_geospatial
+pip install git+https://github.com/data-hamlets/lbth-geospatial
 ```
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+import lbth_geospatial
 
 ``` python
 1+1
